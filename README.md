@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&Data-Analysis%20render&fontSize=45)
 
 # SungJoon Wang
-## A growing Data Analysis
+## A growing Data Analyist
 ### Technology Stack
 
 
