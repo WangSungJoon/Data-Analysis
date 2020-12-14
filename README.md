@@ -1,7 +1,7 @@
-![header]# Data Analysis(https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&Data-Analysis%20render&fontSize=45&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&Data-Analysis%20render&fontSize=45&animation=fadeIn)
 <p align="center">
 
-
+# Data Analysis
 ### Technology Stack
 
 
@@ -18,4 +18,5 @@
 
 </p>
 # CV
+
 ![CV](./image/CV_WangSungJoon.png)
