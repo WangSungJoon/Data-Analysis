@@ -1,5 +1,3 @@
-# Data-Analysis
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&Data-Analysis%20render&fontSize=45&animation=fadeIn)
 
 - Technology Stack -
