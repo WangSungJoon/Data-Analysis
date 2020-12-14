@@ -1,3 +1,6 @@
+#Files
+###Conveniene
+국비지원 프로그램으로 빅데이터 분석 전문가 양성과정 간 진행했던 '편의점 입지여건 분석과 생존율 예측'을 주제로한 프로젝트입니다.
 - clustering : 군집화 과정
 - gu_sales : 구별 판매율 시각화
 - machin_learning_GS : Grid Search에 pipe line을 사용해 최적의 파라미터 계산 과정
