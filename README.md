@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&Data-Analysis%20render&fontSize=45&animation=fadeIn)
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&Data-Analysis%20render&fontSize=45&animation=fadeIn)
 
 # Data Analysis
 ### Technology Stack
