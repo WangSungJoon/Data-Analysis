@@ -8,7 +8,7 @@ https://img.shields.io/badge/<LABEL>-<Java>-<orange>
 
 - SNS -
 
-https://img.shields.io/badge/Instagram-%E4405F?style=flat-square&logo=Vimeo&logoColor=#Instagram&link=https://www.instagram.com/popowsj/
+https://img.shields.io/badge/Instagram-white?style=flat-square&logo=Instagram&logoColor=%E4405F&link=https://www.instagram.com/popowsj/
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&Data-Analysis%20render&fontSize=45&animation=fadeIn)
