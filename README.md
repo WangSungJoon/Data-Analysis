@@ -13,7 +13,7 @@
 
 - SNS -
 
-<a><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">https://www.instagram.com/popowsj/</a>
+<a><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/popowsj/">
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&Data-Analysis%20render&fontSize=45&animation=fadeIn)
