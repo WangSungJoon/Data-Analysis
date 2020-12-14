@@ -4,7 +4,7 @@
 
 - Technology Stack -
 https://img.shields.io/badge/label=<LABEL>$message=<Java>&color=<orange>
-
+https://img.shields.io/badge/<LABEL>-<Java>-<orange>
 
 - SNS -
 
