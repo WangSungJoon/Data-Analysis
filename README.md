@@ -13,7 +13,6 @@
 
 - SNS -
 
-<a><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/popowsj/">
-<img src="https://camo.githubusercontent.com/fcf06872cb19033271888b7253f79296007ec82a77fda0044d645068062b73b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666c61742d737175617265266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f616d617a7a692e6879655f2f" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/amazzi.hye_/" style="max-width:100%;">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/popowsj/">
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&Data-Analysis%20render&fontSize=45&animation=fadeIn)
