@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&Data-Analysis%20render&fontSize=45&animation=fadeIn)
 
 - Technology Stack -
-https://img.shields.io/badge/v1?label=<LABEL>&message=<Java>&color=<orange>
+https://img.shields.io/badge?label=<LABEL>&message=<Java>&color=<orange>
 https://img.shields.io/badge/<LABEL>-<Java>-<orange>
 
 - SNS -
